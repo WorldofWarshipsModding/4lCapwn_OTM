@@ -1,0 +1,8 @@
+{
+	"screenshot": "",
+	"versions": [{
+		"version": "1.0.0",
+		"minWoWSVersion": "0.5.16.0",
+		"archive": "https://github.com/WorldofWarshipsModding/4lCapwn_OTM/raw/master/releases/4lCapwn_ShipOTM_1.0.0.zip"
+	}]
+}
